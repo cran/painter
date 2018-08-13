@@ -1,0 +1,10 @@
+923022c3578ccaa90fef724da28e632c *DESCRIPTION
+b1e44651089c7ea9bf2f706d76012100 *NAMESPACE
+95ef1d537746f834d4cfe0e3656ab0fc *R/painter.R
+4d4ddeeec012743e144266105851de6c *man/ColorBy.Rd
+9eba504471b917a00619102de9ed9c22 *man/Complement.Rd
+1335e096fd4b0604f9d852110fc5f15e *man/GetOpacity.Rd
+c48848441c9f15d2adf9079f60ccedaa *man/Mix.Rd
+07a290d64281232d2e850b2e9069f10b *man/Palette.Rd
+a7867bd584a53a4b0e4ff7a8e02f0883 *man/SetOpacity.Rd
+ffe205531370ed219418d4ab375d49fa *man/TestPalette.Rd
